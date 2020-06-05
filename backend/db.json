@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fone JBL Preto",
+      "price": "420"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Samsung",
+      "price": 2400
+    },
+    {
+      "id": 3,
+      "name": "Celular G6 Plus",
+      "price": 1529
+    },
+    {
+      "name": "cartucho Impressoa",
+      "price": "50",
+      "id": 4
+    },
+    {
+      "name": "Novo Notebook DELL",
+      "price": "5000",
+      "id": 5
+    }
+  ]
+}
