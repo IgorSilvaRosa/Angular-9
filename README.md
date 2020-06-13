@@ -1,5 +1,11 @@
 # Curso Angular 9 Essencial - Cod3r
 
+## Instalação JSON Server
+npm init -y
+npm i json-server
+
+Criar arquivo db.json
+
 ## Instalação Node
 https://nodejs.org/en/download/
 
