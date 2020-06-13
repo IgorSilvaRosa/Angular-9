@@ -6,6 +6,8 @@ https://nodejs.org/en/download/
 ## Instalação Angular
 npm install -g @angular/cli
 
+## Criação do Projeto
+ng new PROJECT-NAME
 
 ## Componentes
 ng g c Nome
